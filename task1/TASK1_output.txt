@@ -1,0 +1,6 @@
+Triangle centroids:
+Triangle: (457, 473)
+Triangle: (457, 474)
+square centroids:
+Hexagon centroids:
+Hexagon: (145, 151)
